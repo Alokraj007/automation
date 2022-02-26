@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-25T13:09:29 IST" name="Default suite" finished-at="2022-02-25T13:10:21 IST" duration-ms="51450">
+    <groups>
+    </groups>
+    <test started-at="2022-02-25T13:09:29 IST" name="Default test" finished-at="2022-02-25T13:10:21 IST" duration-ms="51450">
+      <class name="org.bno.WebApp.Loginpage">
+        <test-method signature="loginFormCheck()[pri:0, instance:org.bno.WebApp.Loginpage@4f2b503c]" started-at="2022-02-25T13:09:29 IST" name="loginFormCheck" finished-at="2022-02-25T13:09:47 IST" duration-ms="17917" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFormCheck -->
+      </class> <!-- org.bno.WebApp.Loginpage -->
+      <class name="org.bno.WebApp.Homepage">
+        <test-method signature="countrySelectorCheck()[pri:0, instance:org.bno.WebApp.Homepage@6e0f5f7f]" started-at="2022-02-25T13:09:47 IST" name="countrySelectorCheck" finished-at="2022-02-25T13:10:05 IST" duration-ms="18068" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- countrySelectorCheck -->
+        <test-method signature="geth1title()[pri:0, instance:org.bno.WebApp.Homepage@6e0f5f7f]" started-at="2022-02-25T13:10:05 IST" name="geth1title" finished-at="2022-02-25T13:10:21 IST" duration-ms="15379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- geth1title -->
+      </class> <!-- org.bno.WebApp.Homepage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
